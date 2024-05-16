@@ -1,0 +1,23 @@
+div {
+	display: inline-block;
+	height: 150px;
+	width: 150px;
+	border: 2px dotted blue;
+	justify-content: stretch;
+}
+
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+.orange {
+	background-color: orange;
+}
+.blue {
+	background-color: blue;
+}
+.yellow {
+	background-color: yellow;
+}

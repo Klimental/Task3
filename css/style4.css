@@ -1,0 +1,25 @@
+div {
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}
+
+.green {
+	background-color: green;
+	top: 70px;
+	left: 70px;
+	z-index: 1;
+}
+.blue {
+	background-color: blue;
+	top: 120px;
+	left: 120px;
+	z-index: 0;
+}
+.yellow {
+	background-color: yellow;
+	top: 20px;
+	left: 20px;
+	z-index: 2;
+}
